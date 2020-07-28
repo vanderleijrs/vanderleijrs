@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**vanderleijrs/vanderleijrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 	
 My name is Vanderlei Rodrigues from Brazil (🇧🇷). I am working on Aceleradora Ágil, I am studing to become a Full-Stack Developer,I always has Been loved for tecnology, English language and new knowledges.
 In my free time I like to  watch soccer (⚽️),essentially GRÊMIO FBPA games, to watch movies (🎞️) and series (📺).
